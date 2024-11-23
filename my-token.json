@@ -1,0 +1,15 @@
+{
+  "name": "Just a chill Mexican",
+  "symbol": "CM",
+  "description": "Just a chill laid back Mexican",
+  "image": "https://example.com/image.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/image.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
